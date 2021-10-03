@@ -5,3 +5,4 @@ Can buy products with Ethereum using Metamask wallet.
 
 Run it as a truffle framework product
 
+Sorry for the node modules commit :(
